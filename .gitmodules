@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "digitize"]
-	path = digitize
-	url = https://github.com/tpoisot/digitize
-	shallow = true
-	registered = true
